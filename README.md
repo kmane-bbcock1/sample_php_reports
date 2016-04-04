@@ -1,4 +1,4 @@
-Sample PHP
+Sample PHP project
 ===============
 
 Build sample for standalone PHP build sample.
